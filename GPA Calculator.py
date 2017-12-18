@@ -1,6 +1,6 @@
 # by Nicholas Walters
 # 1/07/2017, Semester 2 2017
-# Version 1.0
+# Version 1.1
 # 22243339@student.uwa.edu.au
 
 unitCount = int(input("How many completed units have you done (of credits 6)? "))
